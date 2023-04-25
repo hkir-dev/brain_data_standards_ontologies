@@ -16,7 +16,7 @@
     <uri id="Imports Wizard Entry" name="http://purl.obolibrary.org/obo/bdscratch/releases/2020-12-14/imports/ncbitaxon_import.owl" uri="src/ontology/imports/ncbitaxon_import.owl"/>
     <uri id="Imports Wizard Entry" name="http://purl.obolibrary.org/obo/bdscratch/releases/2020-12-14/imports/uberon_import.owl" uri="src/ontology/imports/uberon_import.owl"/>
     <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
-        <uri id="Automatically generated entry, Timestamp=1615193720656" name="http://purl.obolibrary.org/obo/bdscratch.owl" uri="bdscratch.owl"/>
+        <uri id="Automatically generated entryx, Timestamp=1615193720656" name="http://purl.obolibrary.org/obo/bdscratch.owl" uri="bdscratch.owl"/>
         <uri id="Automatically generated entry, Timestamp=1615193720656" name="http://purl.obolibrary.org/obo/bdscratch/bdscratch-base.owl" uri="bdscratch-base.owl"/>
         <uri id="Automatically generated entry, Timestamp=1615193720656" name="http://purl.obolibrary.org/obo/bdscratch/bdscratch-full.owl" uri="bdscratch-full.owl"/>
         <uri id="Automatically generated entry, Timestamp=1615193720656" name="http://purl.obolibrary.org/obo/bdscratch/bdscratch-simple-non-classified.owl" uri="bdscratch-simple-non-classified.owl"/>
